@@ -8,6 +8,6 @@ How to use:
 
 2.Enter name "quali" <br>
 <img src="https://raw.githubusercontent.com/niklsss/idea-duplicate-class-plugin/master/doc/insp.png"/>
-
+ 
 3.Results <br>
 <img src="https://raw.githubusercontent.com/niklsss/idea-duplicate-class-plugin/master/doc/find.png"/>
