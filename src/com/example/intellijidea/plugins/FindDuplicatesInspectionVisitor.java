@@ -68,9 +68,6 @@ public class FindDuplicatesInspectionVisitor extends JavaElementVisitor {
             }
 
         }
-        else{
-            
-        }
     }
 
     private static class ShowDiffFix implements LocalQuickFix {
